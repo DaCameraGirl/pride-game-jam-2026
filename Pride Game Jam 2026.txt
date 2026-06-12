@@ -1,0 +1,15 @@
+Pride Game Jam 2026 - Prism Playgrounds
+
+This folder contains a playable, family-friendly Pride mini-game arcade.
+
+Main files:
+
+- index.html
+- styles.css
+- game.js
+- README.md
+
+Open index.html in a browser to play.
+
+GitHub Pages target:
+https://dacameragirl.github.io/pride-game-jam-2026/
