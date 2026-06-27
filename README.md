@@ -43,7 +43,7 @@
 </div>
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%E2%9C%A8%20About&fontSize=22&fontColor=e6edf3" width="720" alt="✨ About" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%E2%9C%A8%20About&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="✨ About" /></p>
 
 
 **Prism Playgrounds** is a family-friendly Pride-themed browser game collection. It works like a tiny arcade hub: pick a mini-game, play a short round, and jump into another activity whenever you want.
@@ -51,7 +51,7 @@
 The goal is colorful, welcoming, easy-to-run fun. Pride colors are part of the actual play, not just decoration.
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%8E%AE%20Mini-Games&fontSize=22&fontColor=e6edf3" width="720" alt="🎮 Mini-Games" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%8E%AE%20Mini-Games&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🎮 Mini-Games" /></p>
 
 
 | Game | What You Do | Vibe |
@@ -61,7 +61,7 @@ The goal is colorful, welcoming, easy-to-run fun. Pride colors are part of the a
 | 💖 **Kindness Match** | Flip cards and match positive values. | Memory |
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%95%B9%EF%B8%8F%20Controls&fontSize=22&fontColor=e6edf3" width="720" alt="🕹️ Controls" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%95%B9%EF%B8%8F%20Controls&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🕹️ Controls" /></p>
 
 
 | Action | Controls |
@@ -71,7 +71,7 @@ The goal is colorful, welcoming, easy-to-run fun. Pride colors are part of the a
 | Start or switch games | Mouse, touch, or `Enter` |
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%9A%80%20Run%20Locally&fontSize=22&fontColor=e6edf3" width="720" alt="🚀 Run Locally" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%9A%80%20Run%20Locally&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🚀 Run Locally" /></p>
 
 
 Open `index.html` in a modern browser.
@@ -89,7 +89,7 @@ http://localhost:8000
 ```
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%A7%B0%20Project%20Files&fontSize=22&fontColor=e6edf3" width="720" alt="🧰 Project Files" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%A7%B0%20Project%20Files&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🧰 Project Files" /></p>
 
 
 | File | Purpose |
@@ -100,7 +100,7 @@ http://localhost:8000
 | `Pride Game Jam 2026.txt` | Short local project note |
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%8C%9F%20Project%20Goals&fontSize=22&fontColor=e6edf3" width="720" alt="🌟 Project Goals" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%8C%9F%20Project%20Goals&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="🌟 Project Goals" /></p>
 
 
 - Keep the tone kid-friendly, bright, and welcoming.
@@ -109,7 +109,7 @@ http://localhost:8000
 - Stay dependency-free so the game is easy to host on GitHub Pages.
 
 <p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%92%8C%20Credits&fontSize=22&fontColor=e6edf3" width="720" alt="💌 Credits" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,100:12102a&height=50&section=header&text=%F0%9F%92%8C%20Credits&fontSize=22&fontColor=e6edf3&animation=twinkling" width="720" alt="💌 Credits" /></p>
 
 
 Made by **Angela Hudson / DaCameraGirl** for **Pride Game Jam 2026**.
