@@ -1,27 +1,39 @@
-<div align="center">
-
-<img src="assets/prism-playgrounds-banner.svg" alt="Animated sparkly Pride color banner for Prism Playgrounds" width="100%">
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E40303?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-008026?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-FFED00?style=for-the-badge&logo=javascript&logoColor=14131d" alt="JavaScript">
+<p align="center">
+  <img src="docs/readme-banner.svg" alt="Pride Game Jam 2026 — Browser game built for Pride Game Jam 2026 — colorful, inclusive, and playable from a link." width="720" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Pride_Game_Jam-2026-732982?style=flat-square" alt="Pride Game Jam 2026">
-  <img src="https://img.shields.io/badge/Style-family_friendly-FF8C00?style=flat-square" alt="Family friendly">
-  <img src="https://img.shields.io/badge/Engine-vanilla_browser_game-2447FF?style=flat-square" alt="Vanilla browser game">
+<p align="center">
+  <strong>Browser game built for Pride Game Jam 2026 — colorful, inclusive, and playable from a link.</strong>
 </p>
 
-# 🌈 Prism Playgrounds
+<p align="center">
+  <a href="https://dacameragirl.github.io/pride-game-jam-2026/"><img src="https://img.shields.io/badge/Live-GitHub%20Pages-33d69f?style=for-the-badge&logo=github&logoColor=white" alt="Live demo" /></a>
+  <a href="https://github.com/DaCameraGirl/pride-game-jam-2026"><img src="https://img.shields.io/badge/Code-GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>
 
-### A cheerful Pride mini-game arcade for Pride Game Jam 2026
+<p align="center">
+  <img src="https://img.shields.io/badge/deploy-GitHub Pages-000000?style=flat-square&logo=github&logoColor=white" alt="deploy-GitHub Pages" />
+  <img src="https://img.shields.io/badge/play-in browser-ff5fa2?style=flat-square" alt="play-in browser" />
+</p>
 
-`HTML` • `CSS` • `JavaScript` • `No installs` • `GitHub Pages friendly`
+### Languages
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-64%25-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS-26%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-10%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+</p>
 
+### Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Browser-game-ff5fa2?style=flat-square" alt="Browser-game" />
+  <img src="https://img.shields.io/badge/GitHub Pages-live-33d69f?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages-live" />
+</p>
+
+<p align="center">
+  Built by <strong>Angela Hudson</strong> · <a href="https://github.com/DaCameraGirl">DaCameraGirl</a>
+</p>
 <div align="center">
 
 | ❤️ | 🧡 | 💛 | 💚 | 💙 | 💜 |
@@ -30,13 +42,17 @@
 
 </div>
 
-## ✨ About
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%E2%9C%A8%20About&fontSize=22&fontColor=e6edf3" width="720" alt="✨ About" /></p>
+
 
 **Prism Playgrounds** is a family-friendly Pride-themed browser game collection. It works like a tiny arcade hub: pick a mini-game, play a short round, and jump into another activity whenever you want.
 
 The goal is colorful, welcoming, easy-to-run fun. Pride colors are part of the actual play, not just decoration.
 
-## 🎮 Mini-Games
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%8E%AE%20Mini-Games&fontSize=22&fontColor=e6edf3" width="720" alt="🎮 Mini-Games" /></p>
+
 
 | Game | What You Do | Vibe |
 |---|---|---|
@@ -44,7 +60,9 @@ The goal is colorful, welcoming, easy-to-run fun. Pride colors are part of the a
 | 🏳️‍⚧️ **Flag Builder** | Complete Pride flag color patterns from top stripe to bottom stripe. | Puzzle |
 | 💖 **Kindness Match** | Flip cards and match positive values. | Memory |
 
-## 🕹️ Controls
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%95%B9%EF%B8%8F%20Controls&fontSize=22&fontColor=e6edf3" width="720" alt="🕹️ Controls" /></p>
+
 
 | Action | Controls |
 |---|---|
@@ -52,7 +70,9 @@ The goal is colorful, welcoming, easy-to-run fun. Pride colors are part of the a
 | Use pulse in Parade Catch | `Space` |
 | Start or switch games | Mouse, touch, or `Enter` |
 
-## 🚀 Run Locally
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%9A%80%20Run%20Locally&fontSize=22&fontColor=e6edf3" width="720" alt="🚀 Run Locally" /></p>
+
 
 Open `index.html` in a modern browser.
 
@@ -68,7 +88,9 @@ Then open:
 http://localhost:8000
 ```
 
-## 🧰 Project Files
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%A7%B0%20Project%20Files&fontSize=22&fontColor=e6edf3" width="720" alt="🧰 Project Files" /></p>
+
 
 | File | Purpose |
 |---|---|
@@ -77,13 +99,17 @@ http://localhost:8000
 | `game.js` | Mini-game logic and interactions |
 | `Pride Game Jam 2026.txt` | Short local project note |
 
-## 🌟 Project Goals
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%8C%9F%20Project%20Goals&fontSize=22&fontColor=e6edf3" width="720" alt="🌟 Project Goals" /></p>
+
 
 - Keep the tone kid-friendly, bright, and welcoming.
 - Make a real playable game collection, not just a themed page.
 - Use Pride colors clearly and respectfully throughout the experience.
 - Stay dependency-free so the game is easy to host on GitHub Pages.
 
-## 💌 Credits
+<p align="center"><img src="docs/readme-divider.svg" width="720" alt="" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=070b14&height=50&section=header&text=%F0%9F%92%8C%20Credits&fontSize=22&fontColor=e6edf3" width="720" alt="💌 Credits" /></p>
+
 
 Made by **Angela Hudson / DaCameraGirl** for **Pride Game Jam 2026**.
